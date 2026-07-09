@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Sujal — Video Editor Portfolio",
+    fullName: "Sujal",
+    email: "youremail@example.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Sujal",
+    p: ["I edit videos with CapCut & Alight Motion,", "turning raw clips into scroll-stopping content"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,12 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a 20-year-old video editor from Nepal, working with CapCut and
+      Alight Motion to craft short-form and long-form videos that hook
+      viewers from the first second. From smooth transitions and motion
+      graphics to color grading and sound design, I bring raw footage to
+      life with a style built for reels, YouTube, and everything in between.
+      Let's turn your footage into something people can't scroll past!`,
     },
     experience: {
       p: "What I have done so far",
